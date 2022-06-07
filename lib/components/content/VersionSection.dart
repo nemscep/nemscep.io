@@ -22,7 +22,7 @@ class VersionSection extends StatelessWidget {
               children: [
                 Text("v${data.data as String}", style: Theme.of(context).textTheme.subtitle2,),
                 TextButton(onPressed: (){
-                  _launchUrl("");
+                  _launchUrl("https://github.com/nemscep/nemscep.io");
                 }, child: Text("View project on GitHub"))
               ],
             ),
