@@ -1,6 +1,6 @@
 {
-    "name": "nemscep_io",
-    "short_name": "nemscep_io",
+    "name": "nemscep.io",
+    "short_name": "nemscep.io",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
