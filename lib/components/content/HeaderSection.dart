@@ -39,7 +39,7 @@ class HeaderSection extends StatelessWidget {
                               Column(
                                 children: [
                                   Text(
-                                      "This beautiful image has been taken from the amazing wallpapers showcase done by GT Graphics team."),
+                                      "This beautiful wallpaper has been taken from the amazing wallpapers showcase done by GT Graphics team."),
                                   Text(
                                       "They have allowed me to use this wallpaper for free, so I want to dedicate this dialog as a shoutout to their amazing work!"),
                                   Text("Their work is inspiring me continuously and I do hope that whoever visits my site somehow ends up on theirs as well!"),
